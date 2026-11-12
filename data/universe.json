@@ -1,0 +1,655 @@
+{
+  "count": 338,
+  "minted": 72,
+  "tokens": [
+    {
+      "address": "0xb200000000000000000000cf36D05963A3E2205c",
+      "symbol": "AAOIc",
+      "name": "Applied Optoelectronics Inc",
+      "total_supply": 2302.17502384,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-10-26T21:53:37Z"
+    },
+    {
+      "address": "0xb200000000000000000000C2e324d24d7eEcd1fb",
+      "symbol": "AAPLc",
+      "name": "Apple Inc.",
+      "total_supply": 6074.40361951,
+      "multiplier": 1,
+      "nav_price": 356.475,
+      "first_mint_date": "2026-08-12T12:54:19Z"
+    },
+    {
+      "address": "0xB200000000000000000000CD7e6b8042cb7c2BB5",
+      "symbol": "AMCc",
+      "name": "AMC Entertainment Holdings, Inc.",
+      "total_supply": 9299.84104696,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-10-23T14:02:01Z"
+    },
+    {
+      "address": "0xB2000000000000000000000d8Ce462E99ee7A47B",
+      "symbol": "AMDc",
+      "name": "Advanced Micro Devices, Inc.",
+      "total_supply": 989.92197948,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-09-28T13:52:51Z"
+    },
+    {
+      "address": "0xb200000000000000000000d9192b6B456483C2E8",
+      "symbol": "AMZNc",
+      "name": "Amazon.com Inc.",
+      "total_supply": 7200.17071438,
+      "multiplier": 1,
+      "nav_price": 269.835,
+      "first_mint_date": "2026-09-03T18:06:13Z"
+    },
+    {
+      "address": "0xb20000000000000000000006f910a0e7BBD3c168",
+      "symbol": "APPc",
+      "name": "AppLovin Corporation",
+      "total_supply": 106.0015844,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-10-23T14:02:09Z"
+    },
+    {
+      "address": "0xB20000000000000000000026215D755356E5043f",
+      "symbol": "ARMc",
+      "name": "Arm Holdings plc",
+      "total_supply": 255.49890308,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-10-09T19:00:33Z"
+    },
+    {
+      "address": "0xB200000000000000000000B1a29cF17A1819288a",
+      "symbol": "ASTSc",
+      "name": "AST SpaceMobile, Inc.",
+      "total_supply": 42.17148914,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-09-28T13:55:05Z"
+    },
+    {
+      "address": "0xB200000000000000000000Fc737aeA6196aB5a4c",
+      "symbol": "AVGOc",
+      "name": "Broadcom Inc.",
+      "total_supply": 1147.03063025,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-09-24T19:22:27Z"
+    },
+    {
+      "address": "0xb20000000000000000000016f9dfe862feBA122b",
+      "symbol": "BEc",
+      "name": "Bloom Energy Corporation",
+      "total_supply": 1253.77057172,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-09-28T13:56:45Z"
+    },
+    {
+      "address": "0xb200000000000000000000d2b7D9aeE52F6C6BEf",
+      "symbol": "BIDUc",
+      "name": "Baidu, Inc.",
+      "total_supply": 405.0,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-10-09T18:20:53Z"
+    },
+    {
+      "address": "0xb200000000000000000000ca7C6D1438e7245eb6",
+      "symbol": "BILIc",
+      "name": "Bilibili Inc.",
+      "total_supply": 2350.0,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-10-09T19:02:11Z"
+    },
+    {
+      "address": "0xB200000000000000000000535fE96f18204BFD96",
+      "symbol": "BIRDc",
+      "name": "Smartbird, Inc.",
+      "total_supply": 1.0,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-10-06T09:41:45Z"
+    },
+    {
+      "address": "0xB200000000000000000000eA2df44A307CaB279C",
+      "symbol": "BMNRc",
+      "name": "BitMine Immersion Technologies, Inc.",
+      "total_supply": 0.52705231,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-10-26T21:53:45Z"
+    },
+    {
+      "address": "0xB200000000000000000000c36ce081Dd09e86cA2",
+      "symbol": "BUDc",
+      "name": "Anheuser-Busch InBev SA/NV",
+      "total_supply": 418.0,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-10-09T18:19:41Z"
+    },
+    {
+      "address": "0xb200000000000000000000f215E4C890CFb7176B",
+      "symbol": "CAKEc",
+      "name": "Cheesecake Factory Inc",
+      "total_supply": 2.12483479,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-09-29T15:26:43Z"
+    },
+    {
+      "address": "0xb200000000000000000000720133EeDF525f93E2",
+      "symbol": "CBRSc",
+      "name": "Cerebras Systems Inc.",
+      "total_supply": 93.38458375,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-10-23T17:28:25Z"
+    },
+    {
+      "address": "0xB20000000000000000000019f6E7C675b73C2e4D",
+      "symbol": "CRCLc",
+      "name": "Circle Internet Group Inc.",
+      "total_supply": 2087.97778253,
+      "multiplier": 1,
+      "nav_price": 64.76249999,
+      "first_mint_date": "2026-10-26T21:53:11Z"
+    },
+    {
+      "address": "0xB200000000000000000000F111184A74720787E6",
+      "symbol": "CRWVc",
+      "name": "CoreWeave, Inc.",
+      "total_supply": 2534.52700157,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-10-23T17:28:33Z"
+    },
+    {
+      "address": "0xb200000000000000000000428E3a3eebBb20692B",
+      "symbol": "DJTc",
+      "name": "Trump Media & Technology Group Corp.",
+      "total_supply": 9780.91291285,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-09-24T19:23:53Z"
+    },
+    {
+      "address": "0xb200000000000000000000A613D12dEAfBBb1Db7",
+      "symbol": "DUOLc",
+      "name": "Duolingo, Inc.",
+      "total_supply": 11.201144,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-09-29T15:25:59Z"
+    },
+    {
+      "address": "0xb2000000000000000000007790ed6E48e06eD935",
+      "symbol": "GMEc",
+      "name": "GameStop Corp.",
+      "total_supply": 1990.00732968,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-09-24T19:25:03Z"
+    },
+    {
+      "address": "0xb2000000000000000000002D0BA3164cc74f58B7",
+      "symbol": "GOOGLc",
+      "name": "Alphabet Inc.",
+      "total_supply": 34772.63357128,
+      "multiplier": 1.0003771186767842,
+      "nav_price": 301.62370505,
+      "first_mint_date": "2026-08-12T12:55:49Z"
+    },
+    {
+      "address": "0xB20000000000000000000043a599976181Bcf336",
+      "symbol": "HIMSc",
+      "name": "Hims & Hers Health, Inc.",
+      "total_supply": 15935.88004758,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-09-28T14:00:15Z"
+    },
+    {
+      "address": "0xb2000000000000000000006F944897540579D3f2",
+      "symbol": "HOODc",
+      "name": "Robinhood Markets, Inc.",
+      "total_supply": 1475.99208013,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-11-10T20:03:51Z"
+    },
+    {
+      "address": "0xb200000000000000000000f3049F4aa834b23b64",
+      "symbol": "HSAIc",
+      "name": "Hesai Group",
+      "total_supply": 2840.0,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-10-09T19:02:23Z"
+    },
+    {
+      "address": "0xb2000000000000000000002601C5C94F435da168",
+      "symbol": "HTZc",
+      "name": "Hertz Global Holdings, Inc.",
+      "total_supply": 225.71941499,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-09-24T19:26:27Z"
+    },
+    {
+      "address": "0xb200000000000000000000F6b0417af5F52341FC",
+      "symbol": "INFYc",
+      "name": "Infosys Limited",
+      "total_supply": 2824.0,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-10-09T19:01:37Z"
+    },
+    {
+      "address": "0xB2000000000000000000004AFF16039bA04bdFBc",
+      "symbol": "INTCc",
+      "name": "Intel Corporation",
+      "total_supply": 2326.86351434,
+      "multiplier": 1,
+      "nav_price": 61.963,
+      "first_mint_date": "2026-10-26T21:53:01Z"
+    },
+    {
+      "address": "0xB200000000000000000000eDA6C2c6F11E0F838f",
+      "symbol": "LITEc",
+      "name": "Lumentum Holdings Inc",
+      "total_supply": 209.79422362,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-10-26T21:53:19Z"
+    },
+    {
+      "address": "0xb200000000000000000000D61eFD9F54A23ef9eB",
+      "symbol": "LIc",
+      "name": "Li Auto Inc.",
+      "total_supply": 2852.0,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-10-09T19:01:57Z"
+    },
+    {
+      "address": "0xB200000000000000000000f1a0F91e34892E4718",
+      "symbol": "LLYc",
+      "name": "Eli Lilly & Co",
+      "total_supply": 139.66136266,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-09-24T19:27:07Z"
+    },
+    {
+      "address": "0xb2000000000000000000008bC8786B856E61707C",
+      "symbol": "METAc",
+      "name": "Meta Platforms Inc.",
+      "total_supply": 8783.39103525,
+      "multiplier": 1.0003137922895982,
+      "nav_price": 624.78349073,
+      "first_mint_date": "2026-08-12T12:52:33Z"
+    },
+    {
+      "address": "0xB200000000000000000000e215e9B76ecBA02468",
+      "symbol": "MRNAc",
+      "name": "Moderna, Inc.",
+      "total_supply": 577.67167998,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-09-28T14:01:55Z"
+    },
+    {
+      "address": "0xB200000000000000000000eC3c4c7395Cc609813",
+      "symbol": "MRVLc",
+      "name": "Marvell Technology, Inc.",
+      "total_supply": 1027.31977599,
+      "multiplier": 1.0000018650482796,
+      "nav_price": null,
+      "first_mint_date": "2026-09-28T14:03:05Z"
+    },
+    {
+      "address": "0xB200000000000000000000Ab99cFa739E253872B",
+      "symbol": "MSFTc",
+      "name": "Microsoft Corporation",
+      "total_supply": 2672.18673104,
+      "multiplier": 1,
+      "nav_price": 528.89874999,
+      "first_mint_date": "2026-09-03T18:11:07Z"
+    },
+    {
+      "address": "0xb2000000000000000000004884b426556b92883d",
+      "symbol": "MSTRc",
+      "name": "Strategy Inc.",
+      "total_supply": 19309.9847689,
+      "multiplier": 1,
+      "nav_price": 117.2075,
+      "first_mint_date": "2026-09-03T18:11:53Z"
+    },
+    {
+      "address": "0xb200000000000000000000Fd2f87532B90095211",
+      "symbol": "MUc",
+      "name": "Micron Technology Inc.",
+      "total_supply": 1264.3909435,
+      "multiplier": 1.0001006811764792,
+      "nav_price": null,
+      "first_mint_date": "2026-09-24T19:27:57Z"
+    },
+    {
+      "address": "0xb20000000000000000000058B8c947e44011dFE6",
+      "symbol": "NFLXc",
+      "name": "Netflix Inc",
+      "total_supply": 7676.58717567,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-09-24T19:28:49Z"
+    },
+    {
+      "address": "0xb2000000000000000000002D2B5dc53c61f1bA06",
+      "symbol": "NIOc",
+      "name": "NIO Inc.",
+      "total_supply": 15319.0,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-10-09T18:20:27Z"
+    },
+    {
+      "address": "0xB2000000000000000000005ac674f707E357409c",
+      "symbol": "NOKc",
+      "name": "Nokia Corporation",
+      "total_supply": 5799.0002102,
+      "multiplier": 1.0019604756256093,
+      "nav_price": null,
+      "first_mint_date": "2026-10-09T19:01:27Z"
+    },
+    {
+      "address": "0xB200000000000000000000C597c476FCf9Aed3a8",
+      "symbol": "NVAXc",
+      "name": "Novavax Inc",
+      "total_supply": 2.26930751,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-09-29T15:28:23Z"
+    },
+    {
+      "address": "0xb20000000000000000000078ee7ce2fE4908108C",
+      "symbol": "NVDAc",
+      "name": "NVIDIA Corporation",
+      "total_supply": 46822.04010989,
+      "multiplier": 1.0005379395763694,
+      "nav_price": 165.86417693,
+      "first_mint_date": "2026-08-12T12:40:59Z"
+    },
+    {
+      "address": "0xb2000000000000000000008D5328e9208773dC58",
+      "symbol": "NVOc",
+      "name": "Novo Nordisk A/S",
+      "total_supply": 818.0,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-10-09T18:19:13Z"
+    },
+    {
+      "address": "0xb200000000000000000000347AFbA223D7B6b63C",
+      "symbol": "ORCLc",
+      "name": "Oracle Corporation",
+      "total_supply": 3003.19641645,
+      "multiplier": 1.0000399883233386,
+      "nav_price": null,
+      "first_mint_date": "2026-09-28T14:04:07Z"
+    },
+    {
+      "address": "0xB200000000000000000000c8A7223510467D8563",
+      "symbol": "PDDc",
+      "name": "PDD Holdings Inc.",
+      "total_supply": 400.0,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-10-09T18:19:51Z"
+    },
+    {
+      "address": "0xB20000000000000000000018FE7eC7d6DfeeB528",
+      "symbol": "PFEc",
+      "name": "Pfizer Inc",
+      "total_supply": 9.86627835,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-09-29T15:28:43Z"
+    },
+    {
+      "address": "0xb2000000000000000000007d16372840dF4dAbbe",
+      "symbol": "PLTRc",
+      "name": "Palantir Technologies Inc.",
+      "total_supply": 2757.10153767,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-09-24T19:29:27Z"
+    },
+    {
+      "address": "0xB2000000000000000000008FC2A8C23cf5937b66",
+      "symbol": "PMc",
+      "name": "Philip Morris International Inc.",
+      "total_supply": 0.2513925,
+      "multiplier": 1.558821201905387,
+      "nav_price": null,
+      "first_mint_date": "2026-09-29T15:27:29Z"
+    },
+    {
+      "address": "0xB2000000000000000000009272A491812842Aa84",
+      "symbol": "PTONc",
+      "name": "Peloton Interactive, Inc.",
+      "total_supply": 17.83166189,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-09-29T15:27:59Z"
+    },
+    {
+      "address": "0xb200000000000000000000450ad3abE5d4846c6E",
+      "symbol": "PYPLc",
+      "name": "PayPal Holdings, Inc.",
+      "total_supply": 161.0682849,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-09-29T15:25:19Z"
+    },
+    {
+      "address": "0xb200000000000000000000CA425ab42e07C35bC3",
+      "symbol": "QUBTc",
+      "name": "Quantum Computing Inc.",
+      "total_supply": 287.21009592,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-09-28T13:59:51Z"
+    },
+    {
+      "address": "0xB2000000000000000000005bd7AE89b9E6189Bb5",
+      "symbol": "RBLXc",
+      "name": "Roblox Corporation",
+      "total_supply": 73.40046308,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-09-28T14:02:21Z"
+    },
+    {
+      "address": "0xb20000000000000000000066242d4067724cB7A1",
+      "symbol": "RDDTc",
+      "name": "Reddit, Inc.",
+      "total_supply": 651.79872126,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-09-24T19:30:17Z"
+    },
+    {
+      "address": "0xB2000000000000000000003e4249C65bd6c037d9",
+      "symbol": "RIVNc",
+      "name": "Rivian Automotive, Inc.",
+      "total_supply": 2232.42655743,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-10-23T14:02:37Z"
+    },
+    {
+      "address": "0xb200000000000000000000e8E50CBbb9a3861a3C",
+      "symbol": "RKLBc",
+      "name": "Rocket Lab Corporation",
+      "total_supply": 51.50208152,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-10-23T17:28:51Z"
+    },
+    {
+      "address": "0xB20000000000000000000017BB66E9301E913A99",
+      "symbol": "SANc",
+      "name": "Banco Santander, S.A.",
+      "total_supply": 2491.0,
+      "multiplier": 1.0105710788687274,
+      "nav_price": null,
+      "first_mint_date": "2026-10-09T19:00:57Z"
+    },
+    {
+      "address": "0xb200000000000000000000da6F64c306234127E0",
+      "symbol": "SAPc",
+      "name": "SAP SE",
+      "total_supply": 148.0,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-10-09T18:18:57Z"
+    },
+    {
+      "address": "0xB2000000000000000000003088798F6d0722AaAC",
+      "symbol": "SEc",
+      "name": "Sea Limited",
+      "total_supply": 447.0,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-10-09T18:20:17Z"
+    },
+    {
+      "address": "0xb200000000000000000000187f7071D6E321a7d2",
+      "symbol": "SKHYc",
+      "name": "SK hynix Inc.",
+      "total_supply": 2287.7041319,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-10-09T18:18:41Z"
+    },
+    {
+      "address": "0xb200000000000000000000397293Cb8cda9a10c5",
+      "symbol": "SNDKc",
+      "name": "Sandisk Corporation",
+      "total_supply": 2099.95020895,
+      "multiplier": 1,
+      "nav_price": 943.214,
+      "first_mint_date": "2026-09-03T18:13:27Z"
+    },
+    {
+      "address": "0xb200000000000000000000a26326a922FFA87f6C",
+      "symbol": "SONYc",
+      "name": "Sony Group Corporation",
+      "total_supply": 1705.0,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-10-09T18:19:27Z"
+    },
+    {
+      "address": "0xB2000000000000000000002137743D4a01Fe4e88",
+      "symbol": "SOUNc",
+      "name": "SoundHound AI, Inc.",
+      "total_supply": 3.93243255,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-09-29T15:26:19Z"
+    },
+    {
+      "address": "0xb2000000000000000000007b9fcbd005511aCBd5",
+      "symbol": "SPCXc",
+      "name": "Space Exploration Technologies Corp.",
+      "total_supply": 24925.1980554,
+      "multiplier": 1,
+      "nav_price": 142.985,
+      "first_mint_date": "2026-09-03T18:15:37Z"
+    },
+    {
+      "address": "0xb2000000000000000000001e800a7f5189430cD0",
+      "symbol": "TSLAc",
+      "name": "Tesla Inc.",
+      "total_supply": 6288.04981147,
+      "multiplier": 1,
+      "nav_price": 391.9975,
+      "first_mint_date": "2026-09-03T18:16:27Z"
+    },
+    {
+      "address": "0xB200000000000000000000f720C26062Bc3067Da",
+      "symbol": "TTWOc",
+      "name": "Take-Two Interactive Software, Inc.",
+      "total_supply": 1245.47571845,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-09-28T14:01:31Z"
+    },
+    {
+      "address": "0xB200000000000000000000349ef3Aa93a0897476",
+      "symbol": "ULc",
+      "name": "Unilever Plc",
+      "total_supply": 564.0,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-10-09T19:01:13Z"
+    },
+    {
+      "address": "0xb200000000000000000000c367d37d07150182A2",
+      "symbol": "UNHc",
+      "name": "UnitedHealth Group Incorporated",
+      "total_supply": 67.00418926,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-10-23T14:02:47Z"
+    },
+    {
+      "address": "0xB20000000000000000000063376b142C0764B489",
+      "symbol": "VALEc",
+      "name": "Vale S.A.",
+      "total_supply": 3503.0,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-10-09T18:20:03Z"
+    },
+    {
+      "address": "0xb2000000000000000000008fde21a1F5c69FeC0b",
+      "symbol": "WDCc",
+      "name": "Western Digital Corporation",
+      "total_supply": 0.02405338,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-10-26T21:53:27Z"
+    },
+    {
+      "address": "0xB20000000000000000000044E3CD7a0E1028E57a",
+      "symbol": "WENc",
+      "name": "Wendy's Co",
+      "total_supply": 241.76558697,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-09-29T15:25:39Z"
+    },
+    {
+      "address": "0xb200000000000000000000e88EFe88D8aDE3f0dA",
+      "symbol": "WRDc",
+      "name": "WeRide Inc.",
+      "total_supply": 7504.0,
+      "multiplier": 1,
+      "nav_price": null,
+      "first_mint_date": "2026-10-09T19:02:43Z"
+    }
+  ],
+  "dropped": []
+}

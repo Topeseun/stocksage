@@ -1,0 +1,5 @@
+data/state.json
+data/decisions.jsonl
+data/features.json
+__pycache__/
+.venv/

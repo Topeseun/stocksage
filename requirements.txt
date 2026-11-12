@@ -1,0 +1,2 @@
+# StockSage is standard-library only — no third-party dependencies.
+# Python 3.11+ is the only requirement; there is nothing to install.

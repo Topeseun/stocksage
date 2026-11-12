@@ -1,0 +1,309 @@
+{
+  "sample": true,
+  "sample_note": "SAMPLE DATA \u2014 illustrative values built from the verified research report (2026-11-12) for dashboard development only. NOT live data. Replace with data/state.json from the real core engine.",
+  "as_of": "2026-11-12T17:00:00Z",
+  "universe": {
+    "count": 338,
+    "minted": 72
+  },
+  "scores": [
+    {
+      "address": "0xb20000000000000000000078ee7ce2fE4908108C",
+      "symbol": "NVDAc",
+      "name": "NVIDIA Corporation",
+      "score": 90.2,
+      "components": {
+        "onchain": 92,
+        "momentum": 88,
+        "market": 90
+      },
+      "price_usd": 165.043,
+      "price_source": "DexScreener",
+      "liquidity_usd": 1303058,
+      "volume_24h_usd": 10177386,
+      "supply": 46822.04,
+      "multiplier": 1.0005379395763696,
+      "reasons": [
+        "Deepest stock-token pool on Base ($1.30M liquidity, $10.2M 24h volume).",
+        "On-chain supply 46,822 tokens and rising \u2014 real minting activity.",
+        "Price $165.04 within 0.3% of the Chainlink NAV feed."
+      ]
+    },
+    {
+      "address": "0xB2000000000000000000002D0BA3164cc74f58B7",
+      "symbol": "GOOGLc",
+      "name": "Alphabet Inc.",
+      "score": 83.2,
+      "components": {
+        "onchain": 88,
+        "momentum": 74,
+        "market": 86
+      },
+      "price_usd": 301.6237,
+      "price_source": "Chainlink NAV",
+      "liquidity_usd": null,
+      "volume_24h_usd": null,
+      "supply": 34832.61,
+      "multiplier": 1.0003771186767842,
+      "reasons": [
+        "Largest minted supply of the big names: 34,833 tokens.",
+        "Chainlink NAV feed available \u2014 price is a reference value, not a live quote.",
+        "Momentum below the leaders this cycle."
+      ]
+    },
+    {
+      "address": "0xb2000000000000000000004884b426556b92883d",
+      "symbol": "MSTRc",
+      "name": "MicroStrategy Inc.",
+      "score": 82.1,
+      "components": {
+        "onchain": 83,
+        "momentum": 91,
+        "market": 72
+      },
+      "price_usd": 117.2075,
+      "price_source": "Chainlink NAV",
+      "liquidity_usd": null,
+      "volume_24h_usd": null,
+      "supply": 19309.98,
+      "multiplier": 1.0,
+      "reasons": [
+        "Strongest momentum in the sample \u2014 price action leads the pack.",
+        "19,310 tokens minted, one of the largest supplies.",
+        "Market score held back by thinner trading depth."
+      ]
+    },
+    {
+      "address": "0xb2000000000000000000001e800a7f5189430cD0",
+      "symbol": "TSLAc",
+      "name": "Tesla Inc.",
+      "score": 82.0,
+      "components": {
+        "onchain": 85,
+        "momentum": 82,
+        "market": 78
+      },
+      "price_usd": 391.94,
+      "price_source": "DexScreener",
+      "liquidity_usd": 33724.72,
+      "volume_24h_usd": 11930.8,
+      "supply": 6288.05,
+      "multiplier": 1.0,
+      "reasons": [
+        "Price $391.94 matches the Chainlink NAV of $391.9975 almost exactly.",
+        "6,288 tokens minted; steady holder activity on Base.",
+        "Thin pool ($33.7k liquidity) \u2014 price can move on small trades."
+      ]
+    },
+    {
+      "address": "0xb2000000000000000000008bC8786B856E61707C",
+      "symbol": "METAc",
+      "name": "Meta Platforms Inc.",
+      "score": 80.9,
+      "components": {
+        "onchain": 80,
+        "momentum": 79,
+        "market": 84
+      },
+      "price_usd": 624.7835,
+      "price_source": "Chainlink NAV",
+      "liquidity_usd": null,
+      "volume_24h_usd": null,
+      "supply": 8783.39,
+      "multiplier": 1.0003137922895982,
+      "reasons": [
+        "Chainlink NAV feed available at $624.78.",
+        "8,783 tokens minted; consistent on-chain presence.",
+        "No deep DEX pool found \u2014 price from NAV, not live trading."
+      ]
+    },
+    {
+      "address": "0xb2000000000000000000007b9fcbd005511aCBd5",
+      "symbol": "SPCXc",
+      "name": "SPX Corp.",
+      "score": 75.4,
+      "components": {
+        "onchain": 76,
+        "momentum": 70,
+        "market": 80
+      },
+      "price_usd": 142.985,
+      "price_source": "Chainlink NAV",
+      "liquidity_usd": null,
+      "volume_24h_usd": null,
+      "supply": 24925.2,
+      "multiplier": 1.0,
+      "reasons": [
+        "24,925 tokens minted \u2014 wide distribution.",
+        "NAV feed available at $142.99.",
+        "Momentum is mid-pack this cycle."
+      ]
+    },
+    {
+      "address": "0xb200000000000000000000397293Cb8cda9a10c5",
+      "symbol": "SNDKc",
+      "name": "SanDisk Corporation",
+      "score": 74.0,
+      "components": {
+        "onchain": 71,
+        "momentum": 84,
+        "market": 68
+      },
+      "price_usd": 948.5575,
+      "price_source": "Chainlink NAV",
+      "liquidity_usd": null,
+      "volume_24h_usd": null,
+      "supply": 2099.95,
+      "multiplier": 1.0,
+      "reasons": [
+        "Highest per-share price in the sample ($948.56 NAV).",
+        "Momentum strong, but only 2,100 tokens minted.",
+        "Market score low \u2014 limited trading depth."
+      ]
+    },
+    {
+      "address": "0xb20000000000000000000019f6E7C675b73C2e4D",
+      "symbol": "CRCLc",
+      "name": "Circle Internet Group Inc.",
+      "score": 69.2,
+      "components": {
+        "onchain": 68,
+        "momentum": 66,
+        "market": 74
+      },
+      "price_usd": 64.7625,
+      "price_source": "Chainlink NAV",
+      "liquidity_usd": null,
+      "volume_24h_usd": null,
+      "supply": 2087.98,
+      "multiplier": 1.0,
+      "reasons": [
+        "NAV feed available at $64.76.",
+        "2,088 tokens minted since first mint 2026-10-26.",
+        "All three components mid-range \u2014 no standout signal."
+      ]
+    },
+    {
+      "address": "0xB2000000000000000000004AFF16039bA04bdFBc",
+      "symbol": "INTCc",
+      "name": "Intel Corporation",
+      "score": 63.4,
+      "components": {
+        "onchain": 64,
+        "momentum": 60,
+        "market": 66
+      },
+      "price_usd": 61.963,
+      "price_source": "Chainlink NAV",
+      "liquidity_usd": null,
+      "volume_24h_usd": null,
+      "supply": 2326.86,
+      "multiplier": 1.0,
+      "reasons": [
+        "NAV feed available at $61.96.",
+        "Momentum weakest of the sample's leaders.",
+        "On-chain activity steady but unremarkable."
+      ]
+    },
+    {
+      "address": "0xb200000000000000000000428E3a3eebBb20692B",
+      "symbol": "DJTc",
+      "name": "Trump Media & Technology Group",
+      "score": 61.6,
+      "components": {
+        "onchain": 58,
+        "momentum": 76,
+        "market": 52
+      },
+      "price_usd": null,
+      "price_source": "DexScreener",
+      "liquidity_usd": null,
+      "volume_24h_usd": null,
+      "supply": 9780.91,
+      "multiplier": 1.0,
+      "reasons": [
+        "9,781 tokens minted \u2014 large supply, real holders.",
+        "Momentum above average, but market depth is thin.",
+        "No Chainlink feed and no reliable live price in this sample."
+      ]
+    }
+  ],
+  "portfolio": {
+    "cash_usd": 12450.0,
+    "total_value_usd": 100000.0,
+    "positions": [
+      {
+        "symbol": "NVDAc",
+        "address": "0xb20000000000000000000078ee7ce2fE4908108C",
+        "shares": 151.4757,
+        "price_usd": 165.043,
+        "value_usd": 25000.0,
+        "weight_pct": 25.0
+      },
+      {
+        "symbol": "TSLAc",
+        "address": "0xb2000000000000000000001e800a7f5189430cD0",
+        "shares": 47.2011,
+        "price_usd": 391.94,
+        "value_usd": 18500.0,
+        "weight_pct": 18.5
+      },
+      {
+        "symbol": "GOOGLc",
+        "address": "0xB2000000000000000000002D0BA3164cc74f58B7",
+        "shares": 49.7308,
+        "price_usd": 301.6237,
+        "value_usd": 15000.0,
+        "weight_pct": 15.0
+      },
+      {
+        "symbol": "METAc",
+        "address": "0xb2000000000000000000008bC8786B856E61707C",
+        "shares": 22.4878,
+        "price_usd": 624.7835,
+        "value_usd": 14050.0,
+        "weight_pct": 14.05
+      },
+      {
+        "symbol": "SPCXc",
+        "address": "0xb2000000000000000000007b9fcbd005511aCBd5",
+        "shares": 104.9061,
+        "price_usd": 142.985,
+        "value_usd": 15000.0,
+        "weight_pct": 15.0
+      }
+    ]
+  },
+  "decisions": [
+    {
+      "ts": "2026-11-12T16:30:00Z",
+      "type": "rebalance",
+      "action": "increase",
+      "symbol": "NVDAc",
+      "from_weight_pct": 18.0,
+      "to_weight_pct": 25.0,
+      "reason": "NVDAc leads the universe on all three components (on-chain 92, momentum 88, market 90); raising its weight toward the top score.",
+      "score": 90.2
+    },
+    {
+      "ts": "2026-11-12T16:30:00Z",
+      "type": "rebalance",
+      "action": "open",
+      "symbol": "MSTRc",
+      "from_weight_pct": 0.0,
+      "to_weight_pct": 5.0,
+      "reason": "MSTRc momentum (91) is the strongest in the universe; opening a small position to capture the trend.",
+      "score": 82.1
+    },
+    {
+      "ts": "2026-11-12T16:30:00Z",
+      "type": "rebalance",
+      "action": "decrease",
+      "symbol": "DJTc",
+      "from_weight_pct": 8.0,
+      "to_weight_pct": 0.0,
+      "reason": "DJTc has the weakest market score (52) and no reliable live price; closing the position until trading depth improves.",
+      "score": 61.6
+    }
+  ]
+}
