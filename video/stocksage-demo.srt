@@ -1,0 +1,138 @@
+1
+00:00:00,000 --> 00:00:03,640
+Tokenized stocks are real stocks, turned
+into tokens you can hold on Base.
+
+2
+00:00:03,640 --> 00:00:06,720
+Dozens of them launched at once - and they
+move fast.
+
+3
+00:00:06,720 --> 00:00:09,800
+No human can research all of them by hand,
+every day.
+
+4
+00:00:09,800 --> 00:00:14,086
+StockSage is an autonomous AI agent that
+does that research for you.
+
+5
+00:00:14,086 --> 00:00:19,800
+It reads live activity on Base and market
+data, scores every stock, and manages a
+
+6
+00:00:19,800 --> 00:00:21,625
+It works in a simple loop.
+
+7
+00:00:21,625 --> 00:00:25,579
+First, research: the agent reads on-chain
+activity and price action for each stock.
+
+8
+00:00:25,579 --> 00:00:28,621
+Then, score: it scores every stock, and
+shows its working.
+
+9
+00:00:28,621 --> 00:00:33,183
+Then, rebalance: it shifts the portfolio
+toward the strongest scores - and writes
+
+10
+00:00:33,183 --> 00:00:38,050
+The new part: the whole loop runs by itself,
+in the open, on live Base data.
+
+11
+00:00:38,050 --> 00:00:39,950
+This is the research view.
+
+12
+00:00:39,950 --> 00:00:47,170
+Every tokenized stock gets a score - GOOGLc,
+Alphabet Inc., is highest right now, at
+
+13
+00:00:47,170 --> 00:00:56,170
+The score isn't a black box: click any stock
+and you see what drove it - on-chain
+
+14
+00:00:56,170 --> 00:00:58,018
+Those scores feed the portfolio.
+
+15
+00:00:58,018 --> 00:01:02,083
+This is a paper-trading portfolio - practice
+money, no real funds.
+
+16
+00:01:02,083 --> 00:01:06,887
+The agent holds more of the highest-scored
+stocks and less of the weakest.
+
+17
+00:01:06,887 --> 00:01:13,170
+Right now it holds 10 stocks, and GOOGLc is
+the largest position, at 13.37% of the
+
+18
+00:01:13,170 --> 00:01:15,841
+When scores change, the portfolio changes.
+
+19
+00:01:15,841 --> 00:01:21,182
+Here's the most recent rebalance, from 12
+November 2026 at 18:18 UTC.
+
+20
+00:01:21,182 --> 00:01:24,298
+The agent held its position in MSTRc.
+
+21
+00:01:24,298 --> 00:01:31,420
+The reason, logged next to it: "Held MSTRc:
+target 6.9% is within 5pp of current 7.2%."
+
+22
+00:01:31,420 --> 00:01:33,920
+Nobody clicked a button to make that happen.
+
+23
+00:01:33,920 --> 00:01:36,420
+The agent re-runs the loop on its own.
+
+24
+00:01:36,420 --> 00:01:40,302
+Fresh research, fresh scores, and a
+rebalance whenever the scores move enough.
+
+25
+00:01:40,302 --> 00:01:47,420
+The same view is available from the command
+line, for anyone who wants to check the
+
+26
+00:01:47,420 --> 00:01:51,126
+Everything you just saw runs on live Base
+data.
+
+27
+00:01:51,126 --> 00:01:55,244
+The universe covers 338 tokenized stocks,
+from AAPLc to NVDAc.
+
+28
+00:01:55,244 --> 00:02:01,420
+And because it's paper trading, you can
+watch the agent's judgement without risking
+
+29
+00:02:01,420 --> 00:02:11,000
+StockSage: an autonomous AI agent that
+researches tokenized stocks on Base, scores
+
